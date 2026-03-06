@@ -5,6 +5,7 @@ import { generateSidebar } from "./sidebar"
 export default defineConfig({
   title: "KNR-Dron: Dokumentacja",
   description: "Pełna dokumentacja projektu KNR-drone",
+  base: "/dron-docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -23,3 +24,4 @@ export default defineConfig({
     ]
   }
 })
+
