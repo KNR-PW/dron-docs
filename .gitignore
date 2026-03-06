@@ -1,0 +1,15 @@
+/docs/.vitepress/cache
+/docs/.vitepress/dist
+/docs/node_modules
+# system
+.DS_Store
+
+# logs
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# git
+.git
