@@ -12,7 +12,7 @@ hero:
       link: /Dla_początkujących/słownik_pojęć
     - theme: alt
       text: Testy polowe
-      link: /Testy/01_co_należy_zabrać
+      link: /Testy/1._Przygotowania_do_testów
 
 features:
   - title: Feature A
