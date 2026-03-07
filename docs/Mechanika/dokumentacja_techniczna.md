@@ -6,7 +6,6 @@ obejmuje to:
 * druk 3D
 * ansys
 
-
 ::: info
 wdget informacyjny
 :::

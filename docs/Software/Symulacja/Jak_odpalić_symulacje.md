@@ -2,7 +2,7 @@
 by odpalić symulacje musisz przeczytać dokemnetacje która znajduje się w dron_symulacja.
 
 ::: info
-kiedyś to dokącze
+kiedyś to dokończę
 :::
 
 Pozdrawiam
