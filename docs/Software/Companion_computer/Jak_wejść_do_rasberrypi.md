@@ -1,0 +1,1 @@
+# poradnik dotyczący jak uruchomić rasberry pi 
