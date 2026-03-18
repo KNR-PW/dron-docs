@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Sekcja Mechaniki
-    details: Aktualnym koordynatorem sekcji jest: Igor Ząbek
+    details: Aktualnym koordynatorem sekcji jest - Igor Ząbek
   - title: Sekcja Elektroniki
-    details: Aktualnym koordynatorem sekcji jest: Paweł Zawadzki
+    details: Aktualnym koordynatorem sekcji jest - Paweł Zawadzki
   - title: Sekcja Software
-    details: Aktualnym koordynatorem sekcji jest: Rafał Lesiak i Piotr Pawlus
+    details: Aktualnym koordynatorem sekcji jest - Rafał Lesiak i Piotr Pawlus
 ---
 
