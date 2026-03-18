@@ -63,16 +63,6 @@ efekt
 git clone https://github.com/KNR-PW/dron-docs.git
 ```
 
-* Dodanie równania Latex:
-```
-$$
-p + \frac{1}{2}\rho v^2 + \rho g h = \text{const}
-$$
-```
-efekt
-$$
-p + \frac{1}{2}\rho v^2 + \rho g h = \text{const}
-$$
 * Dodanie zdjęcia:
 ```
 ![opis obrazu](ściezka do obrazu)
