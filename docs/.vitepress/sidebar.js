@@ -38,7 +38,7 @@ function scanDir(dir, base = "") {
 
       items.push({
         text: formatName(entry),
-        collapsed: true,
+        collapsed: false,
         items: scanDir(
           path.join(dir, entry),
           path.join(base, entry)

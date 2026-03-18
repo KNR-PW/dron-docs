@@ -15,11 +15,11 @@ hero:
       link: /Testy/1._Przygotowania_do_testów
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Sekcja Mechaniki
+    details: Aktualnym koordynatorem sekcji jest: Igor Ząbek
+  - title: Sekcja Elektroniki
+    details: Aktualnym koordynatorem sekcji jest: Paweł Zawadzki
+  - title: Sekcja Software
+    details: Aktualnym koordynatorem sekcji jest: Rafał Lesiak i Piotr Pawlus
 ---
 
