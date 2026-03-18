@@ -140,4 +140,12 @@ Jeżeli już napisałeś swoją cześć dokumentacji musisz wysłać swoje zmian
 ![zdj](./images/krok2.png)
 3. Naciśnij guzik ***Commit***, pojawi ci się okienko w którym musiz nacisnąć ***yes***
 ![zdj](./images/krok3.png)
-4. Teraz 
+4. Teraz musisz nacisnąć przycisk w lewym dolnym rogu o takim kształcie:
+![zdj](./images/krok4.png)
+5. Pojawi ci się okienko w którym musisz nacisnąć guzik ***ok*** 
+
+Brawo udało ci się wysłać twoje zmiany na serwer teraz musis chwile poczekać aż będziesz mógł zobaczyć swoje zmiany na stronie (przeważnie to trwa kilka minut). 
+
+::: info
+Jeżeli widzisz jakiś błąd lub literówke na tej stronie możesz ją poprawić
+:::
