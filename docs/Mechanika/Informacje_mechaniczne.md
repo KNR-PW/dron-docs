@@ -5,6 +5,7 @@
 - [1. Nazwenictwo plików](#1-nazwenictwo-plików)
 - [2. Licencja Ansys Reaserch](#2-licencja-ansys-reaserch)
 - [3. Dostęp do Fusion](#3-dostęp-do-fusion)
+- [4. Dostęp do drukarek 3d](#4-dostęp-do-drukarek-3d)
 
 <br>
 
