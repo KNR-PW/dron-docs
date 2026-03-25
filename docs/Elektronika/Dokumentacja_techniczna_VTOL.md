@@ -14,7 +14,7 @@ względem jakości sterowania przy zastosowaniu odpowiednio zaawansowanych algor
 
 **1.2 Założenia projektowe**
 
-BSP o masie własnej do 5kg oraz udźwigu 2kg
+* BSP o masie własnej do 5kg oraz udźwigu 2kg
 * Możliwość w trybach lotu manualnym oraz automatycznym, gdzie przejście z lotu
 w zawisie do lotu poziomego dzieje się bez zewnętrznej interakcji.
 * Zasięg w trybie płatowca do 50km.
