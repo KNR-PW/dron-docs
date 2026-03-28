@@ -37,4 +37,3 @@
 
 ## 6. Linki ze szkolenia
 - [Struktura koła](./pdf/KNR%20Szkolenie.pdf)
-- [Dron/ogólne]()
