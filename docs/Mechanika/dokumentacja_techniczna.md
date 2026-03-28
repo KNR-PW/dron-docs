@@ -19,7 +19,7 @@ Spis treści
 ### 1.1. Rama
 
 #### 1.1.1. STEP
-[Rama](./step/)
+<!-- [Rama](./step/) -->
 #### 1.1.2. Analizy
 
 #### 1.1.3. Wykonanie
