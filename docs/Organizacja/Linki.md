@@ -6,7 +6,8 @@
 - [2. Arkusz z zadaniami](#2-arkusz-z-zadaniami)
 - [3. Zdjęcia](#3-zdjęcia)
 - [4. CRM](#4-crm)
-- [Harmonogram projektów](#)
+- [5. Harmonogram projektów](#5-harmonogram-projektów)
+- [6. Szkolenia](#6-linki-ze-szkolenia)
 
 <br>
 
@@ -33,3 +34,7 @@
 [Spis z Harmonogramem](https://wutwaw-my.sharepoint.com/:w:/g/personal/01189483_pw_edu_pl/IQDDeOoB39Z2QbPjZRyejM46AbwK8Oqiuz3WaBmSooHJ8_w?e=FuUA1S) - Igor Ząbek
 
 <br>
+
+## 6. Linki ze szkolenia
+- [Struktura koła](./pdf/KNR%20Szkolenie.pdf)
+- [Dron/ogólne]()

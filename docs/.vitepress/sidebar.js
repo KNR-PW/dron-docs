@@ -8,7 +8,9 @@ const IGNORED_FOLDERS = [
   ".vitepress",
   ".git",
   "dist",
-  "images"
+  "images",
+  "pdf",
+  "step"
 ]
 
 function formatName(name) {
