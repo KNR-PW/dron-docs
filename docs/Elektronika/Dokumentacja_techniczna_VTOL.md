@@ -76,8 +76,8 @@ Mini Power Brick https://rcdrone.top/pl/products/hex-hexing-pixhawk2-power-modul
 
 1. Serwomechanizm MG995
 https://botland.com.pl/serwa-typu-standard/817-serwo-towerpro-mg-995-standard-5904422329723.html
-2. Silnik bezszczotkowy T-Motor MN3508 KV380
-https://rcdrone.top/pl/products/t-motor-brand-rc-engine-mn3508
+2. Silnik bezszczotkowy T-MOTORHOBBY VELOX VICTORY V3008 1350KV
+https://www.tmotorhobby.com/goods-1198-TMOTOR++VELOX+VICTORY+V3008+CINEMATIC+FPV+DRONE+MOTOR+-+1350KV.html
 3. Regulator prędkości obrotowej PULS 100A ESC
 ????
 
