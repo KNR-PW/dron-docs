@@ -86,6 +86,33 @@ sudo tailscale logout   #Zmiana konta
 
 ---
 
+## ROS1 przez SSH i lokalne GUI
+
+Jeżeli `roscore` działa na zdalnym komputerze/RPi, a GUI chcesz uruchamiać lokalnie na swoim PC, ustaw zmienne środowiskowe osobno na obu stronach.
+
+Na komputerze z `roscore`:
+```bash
+export ROS_MASTER_URI=http://100.x.x.x:11311
+export ROS_IP=100.x.x.x
+roscore
+```
+
+Na lokalnym PC z GUI:
+```bash
+export ROS_MASTER_URI=http://100.x.x.x:11311
+export ROS_IP=100.y.y.y
+```
+
+Jeżeli GUI ma się otworzyć zdalnie przez SSH, użyj dodatkowo:
+```bash
+ssh -X knr@100.x.x.x
+```
+
+W praktyce:
+- `ROS_MASTER_URI` wskazuje maszynę, na której działa `roscore`.
+- `ROS_IP` powinno być adresem tej maszyny, na której uruchamiasz dany proces.
+- Dla GUI lokalnego nie uruchamiasz `roscore` na swoim PC, tylko łączysz się do zdalnego mastera.
+
 ## info
 
 limit 100 urzadzeń,
