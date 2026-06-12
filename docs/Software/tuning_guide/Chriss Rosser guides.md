@@ -4,7 +4,7 @@
 
 <iframe src="/dron-docs/tuning_guide/Ardupilot%20Tuning%20Guide.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📄 Pobierz Ardupilot Tuning Guide (PDF)](/dron-docs/tuning_guide/Ardupilot%20Tuning%20Guide.pdf)
+<a href="/dron-docs/tuning_guide/Ardupilot%20Tuning%20Guide.pdf" target="_blank" download>📄 Pobierz Ardupilot Tuning Guide (PDF)</a>
 
 ---
 
@@ -12,4 +12,4 @@
 
 <iframe src="/dron-docs/tuning_guide/PX4%20Tuning%20Guide.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📄 Pobierz PX4 Tuning Guide (PDF)](/dron-docs/tuning_guide/PX4%20Tuning%20Guide.pdf)
+<a href="/dron-docs/tuning_guide/PX4%20Tuning%20Guide.pdf" target="_blank" download>📄 Pobierz PX4 Tuning Guide (PDF)</a>
