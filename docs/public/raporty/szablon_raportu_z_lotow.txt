@@ -93,4 +93,22 @@ Zadania do wykonania przed kolejnymi testami:
   3.
 
 
+5. LOGI Z LOTÓW
+----------------------------------------
+
+Osoba raportująca po każdych testach zgrywa logi i wrzuca je do wątku LOGS
+danej jednostki na kanale KNR.
+
+Format nazwy pliku:
+miejsce-lotów_data_numer-lotu_godzina-startu.bin (lub .ulg)
+
+Wrzucone pliki:
+
+  Lot 1:
+  Lot 2:
+  Lot 3:
+
+Logi zgrane i wrzucone do wątku LOGS (TAK/NIE):
+
+
 Podpis raportującego:
