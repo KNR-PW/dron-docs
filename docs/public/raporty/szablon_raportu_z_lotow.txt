@@ -1,0 +1,96 @@
+========================================
+      RAPORT Z LOTÓW TESTOWYCH
+========================================
+
+
+1. INFORMACJE OGÓLNE
+----------------------------------------
+
+Data testów:
+Miejsce testów:
+Testowana jednostka wraz z dokładną konfiguracją (payloadem):
+
+Skład osobowy i funkcje:
+
+  Raportujący:
+  Pilot:
+  Operator telemetrii i GCS:
+  Pozostałe osoby/funkcje:
+
+
+2. PLANOWANE TESTY
+----------------------------------------
+
+Cel testów:
+[Ogólnie co chcemy przetestować - np. próbne misje przez SUAS, testy idetyfikacji obiektów z drona]
+
+
+Lista planowanych testów:
+
+  1.
+  2.
+  3.
+  4.
+  5.
+
+
+3.1. LOT NR 1
+----------------------------------------
+
+3.1.1 Pogoda i warunki środowiskowe
+
+  Porywy wiatru:
+  Zachmurzenie / słońce:
+  Widoczność:
+  Inne uwagi (np. przeszkody terenowe, zakłócenia):
+
+
+3.1.2. Problemy i błędy zgłaszane przed startem
+
+  Komunikaty z GCS / autopilota:
+
+  Uwagi pilota:
+
+  Uwagi operatora telemetrii:
+
+  Czy podjęto decyzję o starcie mimo zgłoszonych problemów? (TAK/NIE)
+  Uzasadnienie:
+
+
+3.1.3. Przebieg lotu
+
+  Tryb lotu:
+  Czas trwania lotu:
+  Wykonane manewry / misja:
+
+
+3.1.4. Problemy i błędy w trakcie lotu oraz po lądowaniu
+
+  Opis problemów:
+
+  Stan jednostki po lądowaniu:
+
+
+  (Sekcję 3.X powiel dla każdego kolejnego lotu: LOT NR 2, LOT NR 3, ... jak w poniższym podpunkcie 3.2)
+
+3.2. LOT NR 2
+----------------------------------------
+
+
+4. WNIOSKI I DALSZE KROKI
+----------------------------------------
+
+Co zadziałało zgodnie z planem:
+
+
+Co wymaga poprawy:
+
+
+Zadania do wykonania przed kolejnymi testami:
+
+  1.
+  2.
+  3.
+
+
+Podpis raportującego:
